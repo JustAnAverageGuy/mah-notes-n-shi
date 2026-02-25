@@ -1,0 +1,15 @@
+@document.meta
+title: ideas
+description: 
+authors: aks
+categories: 
+created: 2026-02-25T22:26:39+0530
+updated: 2026-02-25T22:30:08+0530
+version: 1.1.1
+@end
+
+* Things to build
+  things that should be built
+** ( ) anti-"accidental `CTRL-W` in text field in browser"-technology
+   A browser extension which warns me when I hit `CTRL-W` while in a text box, because I almost certainly intended to "kill the previous word", not the tab :sadge:.
+

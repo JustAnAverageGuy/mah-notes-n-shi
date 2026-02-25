@@ -1,0 +1,48 @@
+@document.meta
+title: Vocabulary
+description: 
+authors: aks
+categories: 
+created: 2026-02-19T22:43:25+0530
+updated: 2026-02-25T19:57:49+0530
+version: 1.1.1
+@end
+
+* Words
+
+** aspersion
+   - noun
+   - an attack on the reputation or integrity of someone or something
+     "I don't think anyone is /casting aspersions/ on you"
+     "Now, you shouldn't /cast aspersions/, dear. Not all homicidal maniacs have such ghastly taste" - 00:24:51-Wednesday-S02E01
+
+** diatribe
+   - noun
+   - a forceful and bitter verbal attack against someone or something
+     "a diatribe against consumerism"
+   - An abusive, bitter denunciation
+   - "tirade", "harangue"
+
+** fraught
+   - adjective
+   - filled with a specified element or elements; "charged"
+     "an incident fraught with danger; an evening fraught with high drama."
+   - marked by or causing distress; emotional
+   - situation that is complicated or stressful
+   - "freighted", "laden"
+
+** ostensibly
+   - adverb
+   - as appears or is stated to be true, though _not necessarily_ so
+     "the party secretary resigned, /ostensibly/ from ill health"
+   - "apparently", "seemingly"
+
+** word
+   - noun
+   - A sound or a combination of sounds, or its representation in writing or printing, that symbolizes and communicates a meaning and may consist of a single morpheme or of a combination of morphemes.
+   - Something said; an utterance, remark, or comment.
+     "May I say a word about that?"
+   - A command or direction; an order.
+     "gave the word to retreat." 
+     ===
+%| vim: set ft=norg norl conceallevel=2 foldlevel=1 spell: |%

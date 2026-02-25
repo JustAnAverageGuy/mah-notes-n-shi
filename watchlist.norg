@@ -1,0 +1,30 @@
+@document.meta
+title: watchlist
+description: 
+authors: aks
+categories: 
+created: 2026-02-22T22:55:52+0530
+updated: 2026-02-25T22:17:58+0530
+version: 1.1.1
+@end
+
+* Movies
+** (  ) V for Vendetta
+** (  ) Amelie
+** (  ) Bo Burnham Inside
+** (  ) Borat
+** (- ) {:$/thoughts/fight-club:}[Fight Club]
+   critical review pending
+** (  ) Funny Games (1997)
+** (  ) Memories of Murder
+** (  ) Pulp Fiction
+** (  ) Sadako
+** (  ) Silence of the Lambs
+** (  ) The Truman Show
+** (  ) Wolf of Wall Street
+** (? ) American Psycho
+** (? ) The Big Short
+
+* TV
+** (  ) Fleabag
+** (? ) House of Cards
