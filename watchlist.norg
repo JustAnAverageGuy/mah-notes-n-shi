@@ -4,7 +4,7 @@ description:
 authors: aks
 categories: 
 created: 2026-02-22T22:55:52+0530
-updated: 2026-02-25T22:17:58+0530
+updated: 2026-03-09T14:26:40+0530
 version: 1.1.1
 @end
 
@@ -13,14 +13,21 @@ version: 1.1.1
 ** (  ) Amelie
 ** (  ) Bo Burnham Inside
 ** (  ) Borat
+** (  ) Everything Everywhere All at Once
+   well critical rewatch, but yeah
 ** (- ) {:$/thoughts/fight-club:}[Fight Club]
    critical review pending
 ** (  ) Funny Games (1997)
-** (  ) Memories of Murder
+** (  ) Masaan
+** (- ) Memories of Murder
+   review pending
+** (  ) My Dinner with Andre
 ** (  ) Pulp Fiction
 ** (  ) Sadako
 ** (  ) Silence of the Lambs
+** (  ) Soft and Quiet
 ** (  ) The Truman Show
+** (  ) Treasure Planet
 ** (  ) Wolf of Wall Street
 ** (? ) American Psycho
 ** (? ) The Big Short
@@ -28,3 +35,6 @@ version: 1.1.1
 * TV
 ** (  ) Fleabag
 ** (? ) House of Cards
+
+* Web
+** (  ) Learning to Learn - Richard Hemming {https://youtube.com/playlist?list=PL2FF649D0C4407B30&si=oxNj2b9Tj1WawhFe}
