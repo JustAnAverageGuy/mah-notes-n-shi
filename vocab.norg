@@ -4,7 +4,7 @@ description:
 authors: aks
 categories: 
 created: 2026-02-19T22:43:25+0530
-updated: 2026-02-25T23:14:33+0530
+updated: 2026-02-26T02:41:03+0530
 version: 1.1.1
 @end
 
@@ -16,6 +16,11 @@ version: 1.1.1
      "I don't think anyone is /casting aspersions/ on you"
      "Now, you shouldn't /cast aspersions/, dear. Not all homicidal maniacs have such ghastly taste" - 00:24:51-Wednesday-S02E01
 
+** candor
+   - A disposition to treat subjects with fairness; freedom from prejudice or disguise; frankness; sincerity
+   - ability to make judgements free from discrimination or dishonesty
+   - the quality of being honest and straightforward in attitude and speech
+
 ** diatribe
    - noun
    - a forceful and bitter verbal attack against someone or something
@@ -23,11 +28,13 @@ version: 1.1.1
    - An abusive, bitter denunciation
    - "tirade", "harangue"
 
-** jamboree
-   - A large festive gathering
-   - A noisy or unrestrained carousal or frolic; a spree.
-   - A gay festivity
-   - "gala", "banquet", "blowout"
+** exsanguinate
+   - verb, medicine
+   - drain (a person, animal or organ) of blood
+
+** exuberance
+   - joyful enthusiasm
+   - overflowing with eager enjoyment or approval
 
 ** fraught
    - adjective
@@ -37,11 +44,48 @@ version: 1.1.1
    - situation that is complicated or stressful
    - "freighted", "laden"
 
+** inextricable
+   - adjective
+   - so intricate or entangled as to make escape impossible
+   - impossible to disentangle or untie
+   - too involved or complicated to solve
+
+** jamboree
+   - A large festive gathering
+   - A noisy or unrestrained carousal or frolic; a spree.
+   - A gay festivity
+   - "gala", "banquet", "blowout"
+
+** maudlin
+   - adjective
+   - tearful; easily moved to tears; excessively sentimental
+   - drunk, or somewhat drunk; fuddled
+   - effusively or insincerely emotional
+
+** osculate
+   - to kiss
 ** ostensibly
    - adverb
    - as appears or is stated to be true, though _not necessarily_ so
      "the party secretary resigned, /ostensibly/ from ill health"
    - "apparently", "seemingly"
+
+** pernicious
+   - adjective, formal
+   -- from pernecare (to kill or slay outright); per + necare (to kill, slay) 
+   - having a very harmful or evil effect on somebody/something, in a way that is slow and not easily noticeable
+
+** snarl
+   - noun
+   - A tangled mass, as of hair or yarn
+   - A confused, complicated, or tangled situation
+   - A vicious situation
+
+** sundry
+   - adjective
+   - various; miscellaneous
+   - several
+   - separate; diverse
 
 ** word
    - noun
@@ -50,5 +94,6 @@ version: 1.1.1
      "May I say a word about that?"
    - A command or direction; an order.
      "gave the word to retreat." 
+
      ===
 %| vim: set ft=norg norl conceallevel=2 foldlevel=1 spell: |%
