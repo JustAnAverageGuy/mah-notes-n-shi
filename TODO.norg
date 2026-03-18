@@ -1,0 +1,18 @@
+@document.meta
+title: TODO
+description: 
+authors: aks
+categories: 
+created: 2026-03-19T01:11:22+0530
+updated: 2026-03-19T02:23:22+0530
+version: 1.1.1
+@end
+
+NOTE: atm, this document is supposed to only document TODOs relevant to this repository, 
+not my day-to-day TODOs (obv coz of _*PRIVACY*_ reasons)
+Also it is supposed to somewhat mirror the guthib issues, so having it version controlled allows me to be ready for hopping off of this microslop service at a moment's notice.
+
+* TODO 
+  - ( ) vocab <-> Anki Cards
+  - ( ) configure some sort of norg -> md system, and eventually static pages generation
+

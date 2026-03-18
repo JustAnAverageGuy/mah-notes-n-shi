@@ -4,7 +4,7 @@ description:
 authors: aks
 categories: 
 created: 2026-02-19T15:34:38+0530
-updated: 2026-02-25T22:26:38+0530
+updated: 2026-03-19T02:22:03+0530
 version: 1.1.1
 @end
 
@@ -15,3 +15,6 @@ version: 1.1.1
 ** {:$/vocab.norg:}[Vocabulary]
 ** {:$/ideas:}[Ideas]
 
+** {:$/TODO:}
+   NOTE: atm, it is supposed to only document TODOs relevant to this repository, 
+   not my day-to-day TODOs (obv coz of _*PRIVACY*_ reasons)
