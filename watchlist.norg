@@ -4,12 +4,11 @@ description:
 authors: aks
 categories: 
 created: 2026-02-22T22:55:52+0530
-updated: 2026-03-18T22:04:31+0530
+updated: 2026-03-21T01:53:39+0530
 version: 1.1.1
 @end
 
 * Movies
-** (  ) V for Vendetta
 ** (  ) Amelie
 ** (  ) Bo Burnham Inside
 ** (  ) Borat
@@ -21,17 +20,24 @@ version: 1.1.1
 ** (  ) Final Destination
 ** (  ) Funny Games (1997)
 ** (  ) Masaan
+** (  ) Midsommar
 ** (- ) Memories of Murder
    review pending
 ** (  ) My Dinner with Andre
+** (  ) No Country for Old Men
 ** (  ) Pulp Fiction
+** (  ) Requiem for a Dream
 ** (  ) Sadako
-** (  ) Silence of the Lambs
 ** (  ) Soft and Quiet
+** (  ) The Blair Witch Project
+** (  ) The Devil Wears Prada
 ** (  ) The Night Sitter
+** (  ) The Silence of the Lambs
 ** (  ) The Three Mothers (trilogy)
 ** (  ) The Truman Show
 ** (  ) Treasure Planet
+** (  ) V for Vendetta
+** (  ) Whiplash
 ** (  ) Wolf of Wall Street
 ** (? ) American Psycho
 ** (? ) The Big Short
@@ -46,3 +52,4 @@ version: 1.1.1
 
 * Book
 ** (  ) The Hitchhiker's Guide to the Galaxy
+** (  ) Crécy by Warren Ellis
